@@ -1200,7 +1200,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: cd9c182ac8d2b97498ba0468dd8ef51f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 625ee81457ede324485626098e313d0c, type: 2}
+      objectReference: {fileID: 2100000, guid: 2e3258a9b230adb48b2dd83b25e03297, type: 2}
     - target: {fileID: 919132149155446097, guid: cd9c182ac8d2b97498ba0468dd8ef51f, type: 3}
       propertyPath: m_Name
       value: Fishka_2
